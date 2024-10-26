@@ -1,2 +1,2 @@
-# ProjetGit
+# ProjetGit.git
 Classroom assessment
